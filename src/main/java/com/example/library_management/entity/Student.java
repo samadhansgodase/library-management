@@ -43,10 +43,7 @@ public class Student {
     // Student feature update
 
 
-    // Conflict demo - feature branch
-
-
-    // Conflict demo - main branch
+    //  REAL CONFLICT - feature branch
 
 
     //REAL CONFLICT - feature branch
