@@ -34,6 +34,10 @@ public class Student {
     private String paymentStatus;
 
     private String studentCode;
+    // Git workflow practice
+
+
+
 
 
 
